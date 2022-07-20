@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/ScoreBoard/Library/obj
+/ScoreBoard/ScoreBoard/obj
+/ScoreBoard/ScoreBoardTest/bin/Debug/netcoreapp3.1
+/ScoreBoard/ScoreBoardTest/obj
+/ScoreBoard/ScoreBoard/bin/Debug/netcoreapp3.1
+/ScoreBoard/Library/bin/Debug/netcoreapp3.1
