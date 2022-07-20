@@ -39,4 +39,4 @@ Formato para mostrar la ayuda (campos: ID de operación):
 Ex.--> 5
 
 
-Para finalizar el juego solo entrar la palabra exit
+Para finalizar el programa es solo entrar la palabra exit
